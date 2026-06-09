@@ -1,0 +1,10 @@
+# Carpetas y archivos del sistema
+Thumbs.db
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+
+# Dependencias
+node_modules/
